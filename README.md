@@ -14,6 +14,7 @@ with open('filename.txt','w') as file:
 ```
 
 - to avoid this, write file in 'a' append mode
+</details>
 
 <details>
 <summary>Error Handling try,except,else,finally</summary>
@@ -41,7 +42,7 @@ finally:
         print("File closed")
     print("Execution Complete✅")
 ```
-
+</details>
 <details>
 <summary>Classes and Objects</summary>
 - A bank account system would help us understand that a class is a blueprint to create an object(account1), reduce the redundancy in code , initialise the object creation with a `__init__(self,...)` constructor, takes first argument as `self` which is equivalent to `this` keyword in many languages
@@ -79,3 +80,4 @@ account1.withdraw(50)
 account1.get_balance()
 account1.deposit(4000)
 ```
+</details>
