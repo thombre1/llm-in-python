@@ -1,0 +1,1 @@
+Some values that I worte to show that values if repeated will be counted and values not repeated not be counted
